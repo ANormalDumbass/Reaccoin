@@ -1,7 +1,7 @@
 # Terms of Service — Reaccoin
 
-**Last updated:** [DATE]
-**Bot:** Reaccoin ([BOT APPLICATION LINK])
+**Last updated:** 12/11/2026 (DD/MM/YYYY)
+**Bot:** Reaccoin
 **Operator / Contact:** ANormalDumbass / 96_
 
 By adding Reaccoin ("the Bot") to a Discord server or interacting with its
